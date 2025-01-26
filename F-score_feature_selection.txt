@@ -1,0 +1,33 @@
+Feature Scores (Sorted):
+Feature: chroma11             | F-score: 6.5614 | P-value: 1.1946e-02
+Feature: mfcc11               | F-score: 6.2911 | P-value: 1.3777e-02
+Feature: chroma5              | F-score: 4.7584 | P-value: 3.1546e-02
+Feature: mfcc9                | F-score: 4.6992 | P-value: 3.2598e-02
+Feature: mfcc6                | F-score: 4.3745 | P-value: 3.9067e-02
+Feature: chroma4              | F-score: 4.1485 | P-value: 4.4367e-02
+Feature: mfcc7                | F-score: 3.5862 | P-value: 6.1210e-02
+Feature: mfcc10               | F-score: 1.9175 | P-value: 1.6928e-01
+Feature: chroma6              | F-score: 1.1304 | P-value: 2.9031e-01
+Feature: mfcc4                | F-score: 0.7966 | P-value: 3.7430e-01
+Feature: spectral_bandwidth   | F-score: 0.7449 | P-value: 3.9021e-01
+Feature: mfcc2                | F-score: 0.6963 | P-value: 4.0605e-01
+Feature: chroma9              | F-score: 0.6139 | P-value: 4.3520e-01
+Feature: mfcc3                | F-score: 0.4108 | P-value: 5.2305e-01
+Feature: chroma10             | F-score: 0.4009 | P-value: 5.2810e-01
+Feature: chroma12             | F-score: 0.2998 | P-value: 5.8525e-01
+Feature: chroma7              | F-score: 0.2338 | P-value: 6.2983e-01
+Feature: chroma3              | F-score: 0.2310 | P-value: 6.3188e-01
+Feature: chroma8              | F-score: 0.2095 | P-value: 6.4820e-01
+Feature: rms_energy           | F-score: 0.1018 | P-value: 7.5037e-01
+Feature: spectral_rolloff     | F-score: 0.0819 | P-value: 7.7537e-01
+Feature: mfcc1                | F-score: 0.0503 | P-value: 8.2295e-01
+Feature: mfcc12               | F-score: 0.0472 | P-value: 8.2848e-01
+Feature: mfcc13               | F-score: 0.0276 | P-value: 8.6846e-01
+Feature: spectral_centroid    | F-score: 0.0262 | P-value: 8.7176e-01
+Feature: chroma1              | F-score: 0.0191 | P-value: 8.9025e-01
+Feature: mfcc8                | F-score: 0.0157 | P-value: 9.0068e-01
+Feature: chroma2              | F-score: 0.0056 | P-value: 9.4044e-01
+Feature: zero_crossing_rate   | F-score: 0.0008 | P-value: 9.7737e-01
+Feature: mfcc5                | F-score: 0.0002 | P-value: 9.8750e-01
+
+Selected Features (F-score > 10):
